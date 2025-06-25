@@ -1,0 +1,10 @@
+{
+  "domain": "hyper2000",
+  "name": "Hyper2000 MQTT Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/youruser/homeassistant-hyper2000",
+  "requirements": [],
+  "dependencies": ["mqtt"],
+  "codeowners": ["@youruser"],
+  "config_flow": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Hyper2000 MQTT Integration",
+  "content_in_root": false,
+  "domains": ["sensor", "number"],
+  "country": "DE",
+  "render_readme": true
+}
